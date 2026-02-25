@@ -15,14 +15,14 @@
         },
         "ios": {
             "supportsTablet": false,
-            "bundleIdentifier": "app.rork.student-records-app-4i9tc4u"
+            "bundleIdentifier": "com.jkcampus360.app"
         },
         "android": {
             "adaptiveIcon": {
                 "foregroundImage": "./assets/images/adaptive-icon.png",
                 "backgroundColor": "#ffffff"
             },
-            "package": "app.rork.student_records_app_4i9tc4u"
+            "package": "com.jkcampus360.app"
         },
         "web": {
             "favicon": "./assets/images/favicon.png"
